@@ -1,3 +1,5 @@
+//Muhammad Ilham Wahyudi
+
 function arrSum(arr) {
     let max = -9999999;
     let currentSum = 0;
