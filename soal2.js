@@ -1,3 +1,5 @@
+//Muhammad Ilham Wahyudi
+
 function threeStepsAB(text) {
     let kata = {};
 
