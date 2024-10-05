@@ -1,3 +1,5 @@
+//Muhammad Ilham Wahyudi
+
 function sumArray(arr, int) {
 let jumlah = [];
 let hasil = 0;
