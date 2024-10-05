@@ -1,3 +1,5 @@
+//Muhammad Ilham Wahyudi
+
 function deretAritmatika(numbers) {
     let diff = numbers[1] - numbers[0];
     for (let i = 0; i < numbers.length-1; i++) {
